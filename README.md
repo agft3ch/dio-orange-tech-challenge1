@@ -8,7 +8,7 @@
     <strong>❯❯ 🚀 DESAFIO ↓</strong><br>
   </p>
 
-> #### Constuir uma Calculadora com React
+> #### Construir uma Calculadora com React
 > ### O projeto base está neste [link](https://github.com/digitalinnovationone/trilha-react-desafio01-calculadora).
 
  <br>
